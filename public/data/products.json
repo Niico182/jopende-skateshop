@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Tabla Baker ",
+    "price": 47000,
+    "category": "tablas",
+    "description": "Tabla Baker con diseño clásico, ideal para street y park.",
+    "imageUrl": ""
+  },
+  {
+    "id": "2",
+    "name": "Tabla Element",
+    "price": 46000,
+    "category": "tablas",
+    "description": "Tabla Element de 8.0'', balance ideal entre control y durabilidad.",
+    "imageUrl": ""
+  },
+  {
+    "id": "3", 
+    "name": "Tabla Zero",
+    "price": 48000,
+    "category": "tablas",
+    "description": "Tabla Zero con gráficos agresivos y excelente pop.",
+    "imageUrl": ""
+  },
+  {
+    "id": "4",
+    "name": "Truck Independent",
+    "price": 30000,
+    "category": "trucks",
+    "description": "Trucks Independent forjados, máxima resistencia y giro fluido.",
+    "imageUrl": ""
+  },
+  {
+    "id": "5",
+    "name": "Truck Thunder",
+    "price": 28000,
+    "category": "trucks",
+    "description": "Trucks Thunder, ligeros y con respuesta precisa.",
+    "imageUrl": ""
+  },
+  {
+    "id": "6",
+    "name": "Truck Venture",
+    "price": 27000,
+    "category": "trucks",
+    "description": "Trucks Venture, ideales para street, sólidos y estables.",
+    "imageUrl": ""
+  },
+  {
+    "id": "7",
+    "name": "Ruedas Bones",
+    "price": 19000,
+    "category": "ruedas",
+    "description": "Ruedas Bones STF, dureza 99A, excelente deslizamiento.",
+    "imageUrl": ""
+  },
+  {
+    "id": "8",
+    "name": "Ruedas Darkstar",
+    "price": 17000,
+    "category": "ruedas",
+    "description": "Ruedas Darkstar de alta durabilidad, ideales para skateparks.",
+    "imageUrl": ""
+  },
+  {
+    "id": "9",
+    "name": "Ruedas Spitfire",
+    "price": 20000,
+    "category": "ruedas",
+    "description": "Ruedas Spitfire Formula Four, máximo control y velocidad.",
+    "imageUrl": ""
+  },
+  {
+    "id": "10",
+    "name": "Rulemanes Blackwing",
+    "price": 15000,
+    "category": "rulemanes",
+    "description": "Rulemanes Blackwing ABEC 9, precisión y durabilidad.",
+    "imageUrl": ""
+  },
+  {
+    "id": "11",
+    "name": "Rulemanes Redwing",
+    "price": 14000,
+    "category": "rulemanes",
+    "description": "Rulemanes Redwing de acero cromado, rodaje suave y rápido.",
+    "imageUrl": ""
+  },
+  {
+    "id": "12",
+    "name": "Rulemanes Moral",
+    "price": 16000,
+    "category": "rulemanes",
+    "description": "Rulemanes Moral Pro Series, rendimiento profesional y alta resistencia.",
+    "imageUrl": ""
+  }
+]

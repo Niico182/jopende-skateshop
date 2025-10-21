@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import { ItemDetail } from "../ItemDetail/ItemDetail";
+import { useState, useEffect } from "react";
 
 export const ItemDetailContainer = () => {
     const [detail, setDetail] = useState({});
@@ -11,6 +12,7 @@ export const ItemDetailContainer = () => {
                 if (!res.ok) {
                     throw new Error("Error, no se encontro el producto")
                 }
+            return res.json();
             })
             .then((data) => {
                 const found = data.find(prod => prod.id === id)

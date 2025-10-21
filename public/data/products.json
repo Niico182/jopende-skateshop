@@ -5,7 +5,7 @@
     "price": 47000,
     "category": "tablas",
     "description": "Tabla Baker con diseño clásico, ideal para street y park.",
-    "imageUrl": ""
+    "imageUrl": "/images/tabla-baker.webp"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "price": 46000,
     "category": "tablas",
     "description": "Tabla Element de 8.0'', balance ideal entre control y durabilidad.",
-    "imageUrl": ""
+    "imageUrl": "/images/tabla-element.jpg"
   },
   {
     "id": "3", 
@@ -21,7 +21,7 @@
     "price": 48000,
     "category": "tablas",
     "description": "Tabla Zero con gráficos agresivos y excelente pop.",
-    "imageUrl": ""
+    "imageUrl": "/images/tabla-zero.jpg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "price": 30000,
     "category": "trucks",
     "description": "Trucks Independent forjados, máxima resistencia y giro fluido.",
-    "imageUrl": ""
+    "imageUrl": "/images/trucks-independent.jpg"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "price": 28000,
     "category": "trucks",
     "description": "Trucks Thunder, ligeros y con respuesta precisa.",
-    "imageUrl": ""
+    "imageUrl": "/images/trucks-thunder.jpg"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "price": 27000,
     "category": "trucks",
     "description": "Trucks Venture, ideales para street, sólidos y estables.",
-    "imageUrl": ""
+    "imageUrl": "/images/trucks-venture.jpg"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "price": 19000,
     "category": "ruedas",
     "description": "Ruedas Bones STF, dureza 99A, excelente deslizamiento.",
-    "imageUrl": ""
+    "imageUrl": "/images/ruedas-bones.webp"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "price": 17000,
     "category": "ruedas",
     "description": "Ruedas Darkstar de alta durabilidad, ideales para skateparks.",
-    "imageUrl": ""
+    "imageUrl": "/images/ruedas-darkstar.webp"
   },
   {
     "id": "9",
@@ -69,7 +69,7 @@
     "price": 20000,
     "category": "ruedas",
     "description": "Ruedas Spitfire Formula Four, máximo control y velocidad.",
-    "imageUrl": ""
+    "imageUrl": "/images/ruedas-spitfire.webp"
   },
   {
     "id": "10",
@@ -77,7 +77,7 @@
     "price": 15000,
     "category": "rulemanes",
     "description": "Rulemanes Blackwing ABEC 9, precisión y durabilidad.",
-    "imageUrl": ""
+    "imageUrl": "/images/rulemanes-blackwing.webp"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "price": 14000,
     "category": "rulemanes",
     "description": "Rulemanes Redwing de acero cromado, rodaje suave y rápido.",
-    "imageUrl": ""
+    "imageUrl": "/images/rulemanes-redwing.webp"
   },
   {
     "id": "12",
@@ -93,6 +93,6 @@
     "price": 16000,
     "category": "rulemanes",
     "description": "Rulemanes Moral Pro Series, rendimiento profesional y alta resistencia.",
-    "imageUrl": ""
+    "imageUrl": "/images/moral.webp"
   }
 ]

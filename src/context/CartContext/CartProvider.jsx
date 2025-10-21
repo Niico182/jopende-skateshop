@@ -1,12 +1,12 @@
 import { CartContext } from "./CartContext"
+import { useState } from "react";
 
 export const CartProvider = ({children}) => {
-    const [cart, setCart] = useState()
+    const [cart, setCart] = useState([])
 
     const exist = (id) => {
-        const existe = cart.some(p => p.id === id)
+        const exist = cart.some(p => p.id === id)
         return exist;  
-
     };
 
     const addItem = (item) => {
@@ -33,6 +33,6 @@ export const CartProvider = ({children}) => {
     };
 
     return(
-        <CartContext.Provider value={{}}>{children}</CartContext.Provider>
+        <CartContext.Provider value={values}>{children}</CartContext.Provider>
     );
 };

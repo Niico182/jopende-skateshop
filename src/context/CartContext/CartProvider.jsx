@@ -11,11 +11,11 @@ export const CartProvider = ({children}) => {
 
     const addItem = (item) => {
         if(exist(item.id)){
-            alert("El producto ya esta cargado en el carrito");
+            alert(`El producto ${item.name} ya esta cargado en el carrito`);
             return;
         }
         setCart([...cart, item]) ;
-        alert(`${item.name} agrega3`)
+        alert(`El producto ${item.name} fue agregado al carrito.`)
     };
 
     const clearCart = () => {
